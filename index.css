@@ -73,3 +73,10 @@ button:hover
 {
     background-color:lightslategray;
 }
+@media screen and (max-width: 70px) {
+    body
+    {
+        height: 80vh;
+    }
+    
+}
